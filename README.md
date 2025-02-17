@@ -10,7 +10,7 @@ Project ADY201m/
 ├── Weather Data Scraper/           # Directory containing the source code and configuration for weather data collection
 │   ├── config_weather.txt          # Configuration file for Weather Data Scraper
 │   └── WeatherAPI.py               # Python script using WeatherAPI to collect weather data
-└── README.md                       # Instruction and project description file
+README.md                       # Instruction and project description file
 ```
 
 ## Description
