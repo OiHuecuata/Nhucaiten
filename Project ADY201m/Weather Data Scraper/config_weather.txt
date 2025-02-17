@@ -1,7 +1,10 @@
 [API_KEYS]
-sldkjfghsdhghjsgdafhkjdsagfkljdash
-asdyfgsdafglkadshfgjsdhfklsduf
-4d038aa6916747bbb8423941250602
+api_key1
+api_key2
+api_key3
+api_key4
+api_key5
+...
 
 [CITIES]
 Ha Noi
@@ -10,3 +13,4 @@ Da Lat
 Hue
 Da Nang
 Phu Quoc 
+...
