@@ -78,7 +78,7 @@ Based on weather data and flight information, the project will help users predic
      ...
      
      [CITIES]
-     <DA NANG>
+     DA NANG
      ...
      ```
 
