@@ -1,0 +1,12 @@
+[API_KEYS]
+sldkjfghsdhghjsgdafhkjdsagfkljdash
+asdyfgsdafglkadshfgjsdhfklsduf
+4d038aa6916747bbb8423941250602
+
+[CITIES]
+Ha Noi
+Ho Chi Minh
+Da Lat  
+Hue
+Da Nang
+Phu Quoc 
