@@ -2,6 +2,7 @@
 # Nhucaiten
 # PASS ADY201m
 
+```
 Project ADY201m/
 ├── Flight Data Scraper/            # Directory containing the source code and configuration for flight data collection
 │   ├── config_flights.txt          # Configuration file for Flight Data Scraper
@@ -10,6 +11,7 @@ Project ADY201m/
 │   ├── config_weather.txt          # Configuration file for Weather Data Scraper
 │   └── WeatherAPI.py               # Python script using WeatherAPI to collect weather data
 └── README.md                       # Instruction and project description file
+```
 
 ## Description
 This project consists of two main components: **Flight Data Scraper** and **Weather Data Scraper**. The goal of the project is to collect information about flights and weather to assist users in predicting ticket prices and the best times to book tickets.
