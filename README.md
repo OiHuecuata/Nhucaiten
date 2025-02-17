@@ -77,7 +77,7 @@ Based on weather data and flight information, the project will help users predic
      <API_KEY_2>
      ...
      
-     [CITY]
+     [CITIES]
      <DA NANG>
      ...
      ```
