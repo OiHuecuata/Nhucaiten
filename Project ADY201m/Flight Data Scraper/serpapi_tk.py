@@ -167,8 +167,8 @@ def load_config(config_file):
 
 class TelegramReporter:
     def __init__(self):
-        self.bot_token = "7398965031:AAH-7e3cW4pNgzPcqiXVaHeQspZxIaZB9so"
-        self.chat_id = "-4682272925" 
+        self.bot_token = "API_TOKEN"
+        self.chat_id = "ID" 
         self.base_url = f"https://api.telegram.org/bot{self.bot_token}"
         self.session_stats = {
             'flights_collected': 0,
