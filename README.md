@@ -93,10 +93,12 @@ Based on weather data and flight information, the project will help users predic
 ## Author
 - Nguyễn Đức Hoàn
 - Hoàng Ngọc Lưu Đức
+- Nguyễn Thanh Trường Tuấn
 - ...
 - ...
 - Nguyenduchoan0501@gmail.com
 - hoangduc.qn122@gmail.com
+- TripleTisworking@gmail.com
 - https://github.com/Hoann0501
 - https://github.com/Iyas123456
 
