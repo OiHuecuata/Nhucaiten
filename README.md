@@ -94,13 +94,16 @@ Based on weather data and flight information, the project will help users predic
 - Nguyễn Đức Hoàn
 - Hoàng Ngọc Lưu Đức
 - Nguyễn Thanh Trường Tuấn
-- ...
+- Huỳnh Đức Anh
 - ...
 - Nguyenduchoan0501@gmail.com
 - hoangduc.qn122@gmail.com
 - TripleTisworking@gmail.com
+- ducanhhuynh2005@gmail.com
 - https://github.com/Hoann0501
 - https://github.com/Iyas123456
+- ...
+- https://github.com/SENULT
 
 ## License
 This project is developed for research and educational purposes. All content and source code are the intellectual property of the author. Users may refer to and use it for educational purposes, but copying or distributing without the author's permission is not allowed. We encourage contributions and improvements to better serve the community.
