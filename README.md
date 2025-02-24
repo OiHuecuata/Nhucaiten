@@ -102,7 +102,7 @@ Based on weather data and flight information, the project will help users predic
 - Nguyễn Thanh Trường Tuấn
 - TripleTisworking@gmail.com
 - https://github.com/SENULT
--...
+- ...
 - Huỳnh Đức Anh
 - ducanhhuynh2005@gmail.com
 
