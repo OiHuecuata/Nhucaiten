@@ -1,0 +1,16 @@
+[API_KEYS]
+api_key1
+api_key2
+api_key3
+api_key4
+api_key5
+...
+
+[CITIES]
+Ha Noi
+Ho Chi Minh
+Da Lat  
+Hue
+Da Nang
+Phu Quoc 
+...
