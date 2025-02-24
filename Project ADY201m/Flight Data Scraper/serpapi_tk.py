@@ -763,7 +763,7 @@ if __name__ == "__main__":
 # - thời gian đi và về
 # - thời gian chuyến bay
 
-#kết quả cần đạt của api thời tiết:
+# kết quả cần đạt của api thời tiết:
 # - thời gian
 # - ngày trong năm
 # - ngày, tháng mưa
