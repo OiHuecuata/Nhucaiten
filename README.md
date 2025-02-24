@@ -94,15 +94,15 @@ Based on weather data and flight information, the project will help users predic
 - Nguyễn Đức Hoàn
 - https://github.com/Hoann0501
 - Nguyenduchoan0501@gmail.com
-
+- ...
 - Hoàng Ngọc Lưu Đức
 - https://github.com/Iyas123456
 - hoangduc.qn122@gmail.com
-
+- ...
 - Nguyễn Thanh Trường Tuấn
 - TripleTisworking@gmail.com
 - https://github.com/SENULT
-
+-...
 - Huỳnh Đức Anh
 - ducanhhuynh2005@gmail.com
 
