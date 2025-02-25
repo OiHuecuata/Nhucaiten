@@ -146,10 +146,11 @@ We welcome all contributions! If you want to improve the project:
   - Email: hoangduc.qn122@gmail.com
 
 - **Nguyen Thanh Truong Tuan**
-  - GitHub: [SENULT](https://github.com/SENULT)
+  - GitHub: [OiHuecuata](https://github.com/OiHuecuata)
   - Email: TripleTisworking@gmail.com
 
 - **Huynh Duc Anh**
+  - GitHub: [SENULT](https://github.com/SENULT)
   - Email: ducanhhuynh2005@gmail.com
 
 ### 🔰 Roles & Contributions
