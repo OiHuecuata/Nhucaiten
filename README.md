@@ -16,6 +16,7 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Contributing](#-contributing)
+- [Roles & Contributions](#-roles--contributions)
 - [License](#-license)
 - [Authors](#-authors)
 
