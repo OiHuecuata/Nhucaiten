@@ -11,13 +11,13 @@
 </div>
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Authors](#-authors)
 
 ## 🌟 Overview
 The project consists of two main components: **Flight Data Collection** and **Weather Data Collection**. The goal is to build a database of airline ticket prices and weather conditions to help users predict ticket prices and determine optimal booking times.
