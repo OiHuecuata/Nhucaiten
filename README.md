@@ -27,19 +27,22 @@ The project consists of two main components: **Flight Data Collection** and **We
 ```
 Nhucaiten/
 ├── Project ADY201m/
-│  ├── Flight Data Scraper/                # Thư mục chứa mã nguồn và cấu hình thu thập dữ liệu chuyến bay
-│  │   ├── Flight_API/                     # Thu thập dữ liệu qua SerpAPI
-│  |   |   ├── config_flights.txt          # File cấu hình API và tuyến bay
-│  |   |   └── serpapi_tk.py               # Mã nguồn chính cho việc thu thập dữ liệu
-│  │   └── Flight_crawl/                   # Thu thập dữ liệu qua web scraping
+│  ├── Flight Data Scraper/                # Directory containing flight data collection source code and configuration
+│  │   ├── Flight_API/                     # Collect data via SerpAPI
+│  |   |   ├── config_flights.txt          # API configuration file and flight route
+│  |   |   └── serpapi_tk.py               # Main source code for data collection
+│  │   └── Flight_crawl/                   # Collecting data through web scraping
 │  |   |   ├── config.txt                  # File cấu hình tuyến bay và thời gian
-│  |   |   ├── craw_data_sele_tk.py        # Giao diện người dùng cho web scraping
-│  |   |   └── craw_data_sele.py           # Mã nguồn chính cho web scraping
-│  └── Weather Data Scraper/               # Thư mục chứa mã nguồn và cấu hình thu thập dữ liệu thời tiết
-│      ├── config_weather.txt              # File cấu hình API và danh sách thành phố
-│      └── WeatherAPI.py                   # Mã nguồn chính cho việc thu thập dữ liệu thời tiết
+│  |   |   ├── craw_data_sele_no_ui.py     # Web scraping demo source code
+│  |   |   ├── database_manager.py         # Database management module
+│  |   |   ├── flight_scraper_ui.py        # Web scraping interface and logic processing module
+│  |   |   ├── main.py                     # Program launch file
+│  |   |   └── utils.py                    # Module to manage other functions
+│  └── Weather Data Scraper/               # Directory containing source code and configuration for collecting weather data
+│      ├── config_weather.txt              # API configuration file and city list
+│      └── WeatherAPI.py                   # Main source code for weather data collection
 ├── requirements.txt                       # List of required libraries
-└── README.md                              # Tài liệu hướng dẫn và mô tả dự án
+└── README.md                              # Project description and manual
 ```
 
 ## ✨ Features
