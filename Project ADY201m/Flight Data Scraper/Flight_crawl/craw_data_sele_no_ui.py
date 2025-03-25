@@ -145,3 +145,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Craw data with terminal only
+# Can't run automatic
+# Use for explain my project idea
