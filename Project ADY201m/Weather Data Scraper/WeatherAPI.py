@@ -502,8 +502,8 @@ Lưu ý: Có thể tiếp tục phiên trước đó bằng cách chọn "Tiếp
                 
                 current_city_index = 0
                 if current_date < end_date:
-                    self.thread_safe_print("\n⏳ Đợi 3 giây...\n")
-                    time.sleep(3)
+                    self.thread_safe_print("\n⏳ Đợi 10 giây...\n")
+                    time.sleep(10)
                 
                 current_date += timedelta(days=1)
             
